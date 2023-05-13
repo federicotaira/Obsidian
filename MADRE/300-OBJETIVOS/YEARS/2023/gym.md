@@ -1,0 +1,2 @@
+- [x] Eliminar la siesta
+- [ ] ir al gym todos los dias

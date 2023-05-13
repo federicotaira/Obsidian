@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "574c8d2bfbacbe6e",
+        "id": "e67cc0dbf0f67b87",
         "type": "tabs",
         "children": [
           {
-            "id": "e1a445d2aa64311e",
+            "id": "21fbdec15f8e0f97",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "100-CONOCIMIENTO/AREAS/Curso CannabicoMaster Grower/MGP C10 MAYO S15.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100-CONOCIMIENTO/AREAS/Curso CannabicoMaster Grower/MGP C10 MAYO S15.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100-CONOCIMIENTO/AREAS/Curso CannabicoMaster Grower/MGP C10 MAYO S15.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "100-CONOCIMIENTO/AREAS/Curso CannabicoMaster Grower/MGP C10 MAYO S15.pdf"
-              }
+              "state": {}
             }
           }
         ]
@@ -141,15 +135,46 @@
       "canvas:Create new canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "audio-recorder:Empezar/Parar de grabar": false,
+      "markdown-importer:Abrir el importador de Markdown": false,
+      "random-note:Abrir nota al azar": false
     }
   },
-  "active": "e1a445d2aa64311e",
+  "active": "552bbc4d1f8d3482",
   "lastOpenFiles": [
-    "100-CONOCIMIENTO/AREAS/Curso CannabicoMaster Grower/Untitled.md",
-    "100-CONOCIMIENTO/AREAS/Curso CannabicoMaster Grower/MGP C10 MAYO S15.pdf",
+    "300-OBJETIVOS/YEARS/2023/gym.md",
+    "000-RECURSOS/Untitled/Programacion/IA/Anaconda/Myenv/Lib/site-packages/jedi/third_party/typeshed/third_party/2and3/requests/packages/urllib3/packages/ssl_match_hostname/__init__.pyi",
+    "000-RECURSOS/Untitled/Programacion/IA/Anaconda/Myenv/Lib/site-packages/jedi/third_party/typeshed/third_party/2and3/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.pyi",
+    "000-RECURSOS/Untitled/Programacion/IA/Anaconda/Myenv/Lib/site-packages/jedi/third_party/typeshed/third_party/2and3/requests/packages/urllib3/util/__init__.pyi",
+    "000-RECURSOS/Untitled/Programacion/IA/Anaconda/Myenv/Lib/site-packages/jedi/third_party/typeshed/third_party/2and3/requests/packages/urllib3/util/url.pyi",
+    "000-RECURSOS/Untitled/Programacion/IA/Anaconda/Myenv/Lib/site-packages/jedi/third_party/typeshed/third_party/2and3/requests/packages/urllib3/util/timeout.pyi",
+    "000-RECURSOS/Untitled/Programacion/IA/Anaconda/Myenv/Lib/site-packages/jedi/third_party/typeshed/third_party/2and3/requests/packages/urllib3/util/ssl_.pyi",
+    "000-RECURSOS/Untitled/Programacion/IA/Anaconda/Myenv/Lib/site-packages/jedi/third_party/typeshed/third_party/2and3/requests/packages/urllib3/util/retry.pyi",
+    "000-RECURSOS/Untitled/Programacion/IA/Anaconda/Myenv/Lib/site-packages/jedi/third_party/typeshed/third_party/2and3/requests/packages/urllib3/util/response.pyi",
+    "000-RECURSOS/Untitled/Programacion/IA/Anaconda/Myenv/Lib/site-packages/jedi/third_party/typeshed/third_party/2and3/requests/packages/urllib3/util/request.pyi",
+    "000-RECURSOS/Untitled/Programacion/IA/Anaconda/Myenv/Lib/site-packages/jedi/third_party/typeshed/third_party/2and3/requests/packages/urllib3/packages/ssl_match_hostname",
+    "000-RECURSOS/Untitled/Programacion/IA/Anaconda/Myenv/Lib/site-packages/debugpy/_vendored/pydevd/pydevd_plugins/extensions/README.md",
+    "000-RECURSOS/Untitled/Programacion/IA/Anaconda/Myenv/Lib/site-packages/IPython/core/tests/2x2.png",
+    "000-RECURSOS/Untitled/Programacion/IA/Anaconda/Myenv/Lib/site-packages/IPython/core/tests/2x2.jpg",
+    "000-RECURSOS/Untitled/Programacion/IA/Anaconda/Myenv/Lib/site-packages/ipykernel-6.19.2.dist-info/licenses/COPYING.md",
+    "000-RECURSOS/Untitled/Programacion/IA/Anaconda/Myenv/Lib/site-packages/ipykernel/resources/logo-64x64.png",
+    "000-RECURSOS/Untitled/Programacion/IA/Anaconda/Myenv/Lib/site-packages/ipykernel/resources/logo-svg.svg",
+    "000-RECURSOS/Untitled/Programacion/IA/Anaconda/Myenv/Lib/site-packages/ipykernel/resources/logo-32x32.png",
+    "000-RECURSOS/Untitled/Programacion/IA/Anaconda/Myenv/Lib/site-packages/ipython_genutils-0.2.0.dist-info/COPYING.md",
+    "000-RECURSOS/Untitled/Programacion/IA/Anaconda/Myenv/Lib/site-packages/idna-3.4.dist-info/LICENSE.md",
+    "000-RECURSOS/Untitled/Programacion/IA/Anaconda/Myenv/Lib/idlelib/Icons/tk.gif",
+    "000-RECURSOS/Untitled/Programacion/IA/Anaconda/Myenv/Lib/idlelib/Icons/python.gif",
+    "000-RECURSOS/Untitled/Programacion/IA/Anaconda/Myenv/Lib/idlelib/Icons/plusnode.gif",
+    "000-RECURSOS/Untitled/Programacion/IA/Anaconda/Myenv/Lib/idlelib/Icons/openfolder.gif",
+    "000-RECURSOS/Untitled/Programacion/IA/Anaconda/Myenv/Lib/idlelib/Icons/idle_48.png",
+    "300-OBJETIVOS/YEARS/2023/Untitled.md",
+    "300-OBJETIVOS/YEARS/2023/Cannabis.md",
+    "300-OBJETIVOS/YEARS/2023/Untitled 1.md",
+    "200-PROYECTOS/Uruguay.md",
     "800-DIARIO/13-05-2023.md",
-    "800-DIARIO",
+    "Untitled.md",
+    "100-CONOCIMIENTO/AREAS/Curso CannabicoMaster Grower/Untitled.md",
     "300-PROYECTOS/Sistema para manipular datos y controlar el stock, precio/Sistema en C para manipular datos y controlar el stock, precio y fechas de modificaion mendiante inteligencia artificial.md",
     "300-PROYECTOS/Sistema para manipular datos y controlar el stock, precio/Identificar los objetivos del proyecto.md",
     "300-PROYECTOS/Sistema para manipular datos y controlar el stock, precio/Planificacion.md",
@@ -160,38 +185,9 @@
     "300-PROYECTOS/Sistema para manipular datos y controlar el stock, precio/capa de negocio.md",
     "300-PROYECTOS/Sistema para manipular datos y controlar el stock, precio/capa de presentación.md",
     "300-PROYECTOS/Sistema para manipular datos y controlar el stock, precio/capa de datos.md",
-    "300-PROYECTOS/Sistema para manipular datos y controlar el stock, precio",
     "300-PROYECTOS/Untitled 1.md",
-    "300-PROYECTOS",
-    "300-OBJETIVOS/YEARS/2023",
-    "300-OBJETIVOS/YEARS",
-    "300-OBJETIVOS/LIFE",
-    "300-OBJETIVOS",
     "250-IDEAS/Sistema de manipulacion de datos mediante IA.md",
     "250-IDEAS/Karaoke IA.md",
-    "250-IDEAS",
-    "200-PROYECTOS/Uruguay.md",
-    "200-PROYECTOS",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Chatbot GPT/ANEXOS/Pasted image 20230125100335.png.md",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Tensorflow/ANEXOS/Pasted image 20230210151044.png",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Tensorflow/ANEXOS/Pasted image 20230210151024.png",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Tensorflow/ANEXOS/Pasted image 20230210144228.png",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Tensorflow/ANEXOS/Pasted image 20230210144201.png",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Tensorflow/ANEXOS/Pasted image 20230210142449.png",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Tensorflow/ANEXOS/Pasted image 20230210140307.png",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Tensorflow/ANEXOS/Pasted image 20230210142403.png",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Tensorflow/ANEXOS/Pasted image 20230210135932.png",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Tensorflow/ANEXOS/Pasted image 20230210134731.png",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Tensorflow/ANEXOS/Pasted image 20230210134200.png",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Chatbot para whatsapp/1-RoadMap.md",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Tensorflow/Predecion de la  eficiencia de gasolina.md",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Tensorflow/Overfit y underfit.md",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Tensorflow/Clasificacion de textos.md",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Tensorflow/clasificacion de testo con tensorflow-Reseñas de peliculas.md",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Tensorflow/Clasificacion basica de imagenes.md",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Chatbot GPT/TensorFlow.md",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Chatbot GPT/Seleccionar un modelo de lenguaje previamente entrenado.md",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Chatbot GPT/Recopilar un gran conjunto de datos de entrenamiento.md",
     "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Chatbot GPT/0-1.0ChatbotGPT.canvas",
     "100-CONOCIMIENTO/AREAS/PROGRAMACION/ALGORITMO/Etiquetas.canvas"
   ]

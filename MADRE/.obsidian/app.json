@@ -1,1 +1,6 @@
-{}
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "livePreview": false,
+  "attachmentFolderPath": "./Adjuntos"
+}

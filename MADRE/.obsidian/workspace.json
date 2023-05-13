@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "a8fdf0fbad528195",
+    "type": "split",
+    "children": [
+      {
+        "id": "574c8d2bfbacbe6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1a445d2aa64311e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d3fc2e60cb6d73d",
+    "type": "split",
+    "children": [
+      {
+        "id": "62793112dbf27718",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "552bbc4d1f8d3482",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52edaa879d6ffedb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3bfd9c7fbdf628e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "49847b288bed1aee",
+    "type": "split",
+    "children": [
+      {
+        "id": "9eccfeaa946c3128",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a60b40de57fab31a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d21d81dba121cfd4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "636fab41ebd47271",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6bf7f5d73aa6e6ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "552bbc4d1f8d3482",
+  "lastOpenFiles": [
+    "100-CONOCIMIENTO/AREAS/Curso CannabicoMaster Grower/MGP C10 MAYO S15.pdf",
+    "800-DIARIO/13-05-2023.md",
+    "800-DIARIO",
+    "300-PROYECTOS/Sistema para manipular datos y controlar el stock, precio/Sistema en C para manipular datos y controlar el stock, precio y fechas de modificaion mendiante inteligencia artificial.md",
+    "300-PROYECTOS/Sistema para manipular datos y controlar el stock, precio/Identificar los objetivos del proyecto.md",
+    "300-PROYECTOS/Sistema para manipular datos y controlar el stock, precio/Planificacion.md",
+    "300-PROYECTOS/Sistema para manipular datos y controlar el stock, precio/gestión de inventarios y ventas.md",
+    "300-PROYECTOS/Sistema para manipular datos y controlar el stock, precio/Establecer un plan de trabajo.md",
+    "300-PROYECTOS/Sistema para manipular datos y controlar el stock, precio/Diseñar la arquitectura del sistema.md",
+    "300-PROYECTOS/Sistema para manipular datos y controlar el stock, precio/Definir los requisitos del sistema.md",
+    "300-PROYECTOS/Sistema para manipular datos y controlar el stock, precio/capa de negocio.md",
+    "300-PROYECTOS/Sistema para manipular datos y controlar el stock, precio/capa de presentación.md",
+    "300-PROYECTOS/Sistema para manipular datos y controlar el stock, precio/capa de datos.md",
+    "300-PROYECTOS/Sistema para manipular datos y controlar el stock, precio",
+    "300-PROYECTOS/Untitled 1.md",
+    "300-PROYECTOS",
+    "300-OBJETIVOS/YEARS/2023",
+    "300-OBJETIVOS/YEARS",
+    "300-OBJETIVOS/LIFE",
+    "300-OBJETIVOS",
+    "250-IDEAS/Sistema de manipulacion de datos mediante IA.md",
+    "250-IDEAS/Karaoke IA.md",
+    "250-IDEAS",
+    "200-PROYECTOS/Uruguay.md",
+    "200-PROYECTOS",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Chatbot GPT/ANEXOS/Pasted image 20230125100335.png.md",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Chatbot GPT/ANEXOS",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Tensorflow/ANEXOS/Pasted image 20230210151044.png",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Tensorflow/ANEXOS/Pasted image 20230210151024.png",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Tensorflow/ANEXOS/Pasted image 20230210144228.png",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Tensorflow/ANEXOS/Pasted image 20230210144201.png",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Tensorflow/ANEXOS/Pasted image 20230210142449.png",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Tensorflow/ANEXOS/Pasted image 20230210140307.png",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Tensorflow/ANEXOS/Pasted image 20230210142403.png",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Tensorflow/ANEXOS/Pasted image 20230210135932.png",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Tensorflow/ANEXOS/Pasted image 20230210134731.png",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Tensorflow/ANEXOS/Pasted image 20230210134200.png",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Chatbot para whatsapp/1-RoadMap.md",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Tensorflow/Predecion de la  eficiencia de gasolina.md",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Tensorflow/Overfit y underfit.md",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Tensorflow/Clasificacion de textos.md",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Tensorflow/clasificacion de testo con tensorflow-Reseñas de peliculas.md",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Tensorflow/Clasificacion basica de imagenes.md",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Chatbot GPT/TensorFlow.md",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Chatbot GPT/Seleccionar un modelo de lenguaje previamente entrenado.md",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Chatbot GPT/Recopilar un gran conjunto de datos de entrenamiento.md",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Chatbot GPT/0-1.0ChatbotGPT.canvas",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/ALGORITMO/Etiquetas.canvas"
+  ]
+}

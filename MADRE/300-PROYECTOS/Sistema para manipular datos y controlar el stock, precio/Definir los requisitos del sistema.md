@@ -1,0 +1,1 @@
+1.  El sistema tendrá como objetivos principales: automatizar la gestión de inventarios, facilitar la gestión de ventas, mejorar la eficiencia del negocio, utilizar inteligencia artificial y mejorar la toma de decisiones.

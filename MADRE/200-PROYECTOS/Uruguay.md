@@ -1,0 +1,4 @@
+- [x] pasajes = 60dls 8.30am
+- [x] Hospedaje montevideo 63 dols
+- [x] Hospedaje Punta Diablo 32
+- [ ] 

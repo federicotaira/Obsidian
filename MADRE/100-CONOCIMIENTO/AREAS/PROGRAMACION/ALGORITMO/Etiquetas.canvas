@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"53c9163cf061a2c1","x":-683,"y":-402,"width":250,"height":60,"type":"text","text":"Inicio/Fin"},
+		{"id":"b566027a047ae2e3","x":-683,"y":-278,"width":250,"height":60,"color":"4","type":"text","text":"Entrada de datos"},
+		{"id":"5ee522f3eb2c9314","x":-683,"y":-155,"width":250,"height":60,"color":"1","type":"text","text":"Salida de datos"},
+		{"id":"629a7f86560aa38c","x":-683,"y":-32,"width":250,"height":60,"color":"5","type":"text","text":"Operacion"},
+		{"id":"83479dda13a3f632","x":-683,"y":107,"width":250,"height":60,"color":"3","type":"text","text":"Condicion"},
+		{"id":"46fbe1f8056b8d4e","x":-248,"y":-402,"width":593,"height":592,"type":"file","file":"Programacion/image/Pasted image 20230124205434.png"}
+	],
+	"edges":[]
+}

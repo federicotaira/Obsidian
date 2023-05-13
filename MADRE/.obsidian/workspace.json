@@ -11,8 +11,10 @@
             "id": "e1a445d2aa64311e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "100-CONOCIMIENTO/AREAS/Curso CannabicoMaster Grower/MGP C10 MAYO S15.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "100-CONOCIMIENTO/AREAS/Curso CannabicoMaster Grower/MGP C10 MAYO S15.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "100-CONOCIMIENTO/AREAS/Curso CannabicoMaster Grower/MGP C10 MAYO S15.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "100-CONOCIMIENTO/AREAS/Curso CannabicoMaster Grower/MGP C10 MAYO S15.pdf"
+              }
             }
           }
         ]
@@ -138,8 +144,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "552bbc4d1f8d3482",
+  "active": "e1a445d2aa64311e",
   "lastOpenFiles": [
+    "100-CONOCIMIENTO/AREAS/Curso CannabicoMaster Grower/Untitled.md",
     "100-CONOCIMIENTO/AREAS/Curso CannabicoMaster Grower/MGP C10 MAYO S15.pdf",
     "800-DIARIO/13-05-2023.md",
     "800-DIARIO",
@@ -166,7 +173,6 @@
     "200-PROYECTOS/Uruguay.md",
     "200-PROYECTOS",
     "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Chatbot GPT/ANEXOS/Pasted image 20230125100335.png.md",
-    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Chatbot GPT/ANEXOS",
     "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Tensorflow/ANEXOS/Pasted image 20230210151044.png",
     "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Tensorflow/ANEXOS/Pasted image 20230210151024.png",
     "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Tensorflow/ANEXOS/Pasted image 20230210144228.png",
